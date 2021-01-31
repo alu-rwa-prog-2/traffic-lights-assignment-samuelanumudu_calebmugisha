@@ -1,6 +1,6 @@
+//authors: Caleb Mugisha, Samuel Anumudu
+
 package qn2;
-
-
 
 import java.util.HashMap;
 
